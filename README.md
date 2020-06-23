@@ -1,5 +1,6 @@
 # Performace-comparison-between-CPU-and-GPU-on-Image-Processing-operations
 A survey paper on performance comparison between CPU and GPU on point to point image processing operations.
+
 References:
 1. Point to point processing of digital images using parallel computing
 IJCSI International Journal of Computer Science Issues, Vol. 9, Issue 3, No 3, May 2012 ISSN (Online): 1694-0814
