@@ -1,6 +1,14 @@
 # Performace-comparison-between-CPU-and-GPU-on-Image-Processing-operations
 A survey paper on performance comparison between CPU and GPU on point to point image processing operations.
 
+Steps to be followed for the implementation part.
+1. Open code_implementation.py in google collab.
+2. Upload images.zip folder.
+3. Run the first cell.
+4. Uncomment the unzip command in second cell of the .ipynb file and run that command.
+5. Comment back the unzip command after successful unzipping of images.zip.
+6. Run the remaining program in order.
+
 References:
 1. Point to point processing of digital images using parallel computing
 IJCSI International Journal of Computer Science Issues, Vol. 9, Issue 3, No 3, May 2012 ISSN (Online): 1694-0814
